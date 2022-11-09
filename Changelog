@@ -2,6 +2,16 @@
 notre travail de groupe premiere session de GD pour Jean Michel 
 
 #Changelog
+##version [0.0.4]| 09/11/2022
+###Added
+- piéton 
+-Ajout du brouillard de guerre
+###Fixed
+- controle du vehicule
+###Changed
+Passage en mode Runner
+
+#Changelog
 ##version [0.0.3]| 08/11/2022
 ###Added
 - Assets grahiques du décors(building)
