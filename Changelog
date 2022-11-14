@@ -2,6 +2,15 @@
 notre travail de groupe premiere session de GD pour Jean Michel 
 
 #Changelog
+#version [0.0.5]| 14/11/2022
+###Added
+- Collision des trottoirs
+- Début de la mise en place de la scène
+###Fixed
+- Réglage du brouillard pour qu'il s'arrete après un certain temps.
+- Le brouillard prend plus de temps à s'étendre.
+
+#Changelog
 ##version [0.0.4]| 09/11/2022
 ###Added
 - piéton 
