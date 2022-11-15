@@ -2,6 +2,19 @@
 notre travail de groupe premiere session de GD pour Jean Michel 
 
 #Changelog
+#version [0.0.6]| 15/11/2022
+###Added
+- Message de fin de jeu (perdu)
+- Mouvement du piéton
+- Ajout d'obstacles
+- Début du script de victoire
+###Fixed
+- Réglages des collisions
+- Possibilité de voler
+###Changed
+- La collision avec les trottoirs font perdre la partie
+
+#Changelog
 #version [0.0.5]| 14/11/2022
 ###Added
 - Collision des trottoirs
