@@ -2,6 +2,21 @@
 notre travail de groupe premiere session de GD pour Jean Michel 
 
 #Changelog
+#version [0.0.7]| 16/11/2022
+###Added
+- Les 3 fins différentes
+- Ajouts des assets graphiques en jeu
+- Mises en place de barrièrres
+- AJout de la police
+- Ajout de la fonctionnalité de latence dans le mouvement
+- Ajout d'un menu
+- Animation des piétons
+###Changed
+- Changements des assets graphiques
+###Fixed 
+- Invisibilité de certains éléments de décors
+
+#Changelog
 #version [0.0.6]| 15/11/2022
 ###Added
 - Message de fin de jeu (perdu)
